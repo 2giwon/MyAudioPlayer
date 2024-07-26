@@ -1,4 +1,4 @@
 # MyAudioPlayer
  Audio Analysis
  </br>
- <img src="https://github.com/user-attachments/assets/7cbb3932-089e-4b06-9da0-b77db0dd7d79" width="30%" height="30%" />
+ <img src="https://github.com/user-attachments/assets/0d3515b7-cc8a-4edb-b13c-67659c03b706" width="30%" height="30%" />
