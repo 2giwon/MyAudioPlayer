@@ -48,8 +48,7 @@ class MainActivity : ComponentActivity() {
             MyAudioPlayerTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     AudioScreen(
-                        modifier = Modifier.padding(innerPadding)
-                            .background(LightGray),
+                        modifier = Modifier.padding(innerPadding),
                         audioViewModel = audioViewModel,
                         onStopPlaying = audioViewModel::stopAudioAnalysis,
                         onPickAudioFile = pickAudioFile::launch
